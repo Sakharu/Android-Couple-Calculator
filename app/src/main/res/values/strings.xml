@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ChatEnTempsReel</string>
+    <!-- CHAT -->
+    <string name="placeholder_mesage">Message…</string>
+    <string name="error_sending_message">Une erreur est survenue durant l\'envoi de votre message, veuillez réessayer</string>
+    <string name="error_deleting_message">Une erreur est survenue durant la suppression de votre message, veuillez réessayer</string>
+    <string name="error_retrieving_message">Une erreur est survenue durant la récupération des données, les messages peuvent être incomplets</string>
+    <string name="detailsMessage">Envoyé par %1$s le %2$s</string>
+    <string name="modifyMessage">Modifier le message</string>
+    <string name="deleteMessage">Supprimer le message</string>
+    <string name="noMessage">Soyez le premier à envoyer un message au groupe !</string>
+    <string name="no_lesson">Aucun cours</string>
+    <string name="title">Titre</string>
+    <string name="add_homework">Ajouter un devoir</string>
+    <string name="add">Ajouter</string>
+    <string name="description">Description</string>
+    <string name="due_date">Date limite</string>
+    <string name="pick_error">Impossible de choisir ce fichier</string>
+    <string name="homework_add_error">Erreur: impossible d\'ajouter ce devoir</string>
+    <string name="homework_added">Devoir ajouté</string>
+    <string name="subject">Matière</string>
+    <string name="loading">Chargement</string>
+    <string name="adding_homework">Ajout du devoir</string>
+    <string name="timeLeft">%1$s jours restants</string>
+    <string name="today">À rendre ajourd\&apos;hui !</string>
+    <string name="instructions">Consignes</string>
+    <string name="attachments">Fichiers</string>
+    <string name="sendIcon">Icone d\'envoi du message</string>
+    <string name="willQuit">Appuyez une seconde fois pour quitter l\'application</string>
+    <string name="error_upload_image">Une erreur est survenue durant l\'upload de l\'image</string>
+</resources>
